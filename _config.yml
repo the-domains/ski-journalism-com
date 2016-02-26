@@ -1,0 +1,28 @@
+name: Ski-Journalism.com
+favicon: null
+layout_spectrum: 0.984765101224184
+typography_spectrum: 0.6240012408234179
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49719547340646386
+  lightness: 0.3703948953188956
+  saturation: 0.3088336871005595
+  rhythmicContrast: 0.21923541417345405
+purpose: []
